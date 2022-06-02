@@ -1,4 +1,3 @@
-# eLivepeer
 
 # Awesome Livepeer
 A curated list of awesome Livepeer resources, libraries, tools and more.
