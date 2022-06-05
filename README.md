@@ -6,10 +6,10 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 
 # Table of Contents
 - [Context]
-  - [Web 3 Basics]
-  - [Streaming Basics]
-  - [dApps]
-  - [ETH Background]
+  - [Web3 Basics](#web3-basics)
+  - [Streaming Basics](#streaming-basics)
+  - [dApps](#dapps)
+  - [ETH Background](#eth-background)
 
 - [Livepeer Basics] (#livepeer-basics)
   -[White Papers] (#white-papers)
