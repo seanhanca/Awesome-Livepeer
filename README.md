@@ -57,6 +57,38 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 
 # Everything Ops
 ## Livepeer Github Repos
+- **protocol (confluence)**
+    - [https://github.com/livepeer/protocol/tree/confluence](https://github.com/livepeer/protocol/tree/confluence)
+    - The Confluence implementation of the protocol contracts that is meant to be deployed on Arbitrum One
+- **protocol (streamflow)**
+    - https://github.com/livepeer/protocol
+    - The Streamflow implementation of the protocol contracts that is currently deployed on Ethereum
+- **arbitrum-lpt-bridge**
+    - https://github.com/livepeer/arbitrum-lpt-bridge
+    - Contracts that bridge Ethereum and Arbitrum One
+    - Implements L1 <> L2 LPT transfers
+    - Implements L1 → L2 stake migration
+    - Implements L1 → L2 broadcaster funds migration
+    - Implements L1 → L2 LPT total supply caching
+- **go-livepeer**
+    - https://github.com/livepeer/go-livepeer
+    - [Developer docs](https://github.com/livepeer/go-livepeer/tree/master/doc)
+    - The Go implementation of the Livepeer protocol and the node software the users in the network run in order participate as broadcasters, orchestrators or transcoders
+    - Implements networking between broadcasters, orchestrators and transcoders
+    - Implements the video pipeline that is used by orchestrators and transcoders to receive, process (decode, encode, apply filters, etc.) and return video to the rest of the network
+    - Implements automated on-chain transaction workflows to interact with protocol contracts i.e. reward calls, payment redemption, etc.
+- **LPMS**
+    - https://github.com/livepeer/lpms
+    - [Docs on quirks](https://github.com/livepeer/lpms/blob/master/doc/quirks.md)
+    - The Go media processing library that is used in go-livepeer and also contains the video transcoding pipeline logic
+    - Uses C ffmpeg/libav libraries under the hood that is called from Go via cgo
+    - Depends on the Livepeer ffmpeg fork
+- **ffmpeg**
+    - https://github.com/livepeer/FFmpeg
+    - The Livepeer ffmpeg fork that contains some custom features used in LPMS
+- **docs**
+    - https://github.com/livepeer/docs
+    - User facing docs that can be found at [https://docs.livepeer.org/](https://docs.livepeer.org/)
 
 # Latest Trends
 
