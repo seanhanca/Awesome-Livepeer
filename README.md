@@ -12,7 +12,7 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
   - [ETH Basics](#eth-basics)
 
 - [Livepeer Basics](#livepeer-basics)
-  -[White Papers](#white-papers) 
+  - [White Papers](#white-papers) 
   
 - [Everything Ops](#everything-ops)
   - [Livepeer Github Repos](#livepeer-github-repos) 
@@ -41,8 +41,19 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 ## ETH Basics
 
 # Livepeer Basics
+- [First Livepeer Stream in Five Minutes](https://livepeer.com/blog/first-livepeer-stream-in-five-minutes)
+- [Livepeer Always-on Transcoding Network](https://livepeer.com/blog/livepeer-always-on-transcoding-network)
+- [Live Peer Network Phases](https://medium.com/livepeer-blog/livepeer-network-phases-b196ab42264b)
+- [Livepeer Roadmap 2021 and beyond](https://medium.com/livepeer-blog/the-livepeer-roadmap-2021-and-beyond-5281776e9b3d)
+- [The Livepeer Governance Founders Statement](https://medium.com/livepeer-blog/the-livepeer-governance-founders-statement-d4f3a85f787b)
+- [The Best Resources for Token-holders](https://medium.com/livepeer-blog/the-best-resources-for-token-holders-2e484c8d9736)
+- [The video-miner a path to scaling video transcoding](https://medium.com/livepeer-blog/the-video-miner-a-path-to-scaling-video-transcoding-a3487d232a1)
+- [The Streamflow Proposal Scaling Livepeer](https://medium.com/livepeer-blog/the-streamflow-proposal-scaling-livepeer-72179b20bfdd)
 
 ## White Papers
+-  [Livepeer White paper](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md)
+-  [Protocol Research A](https://forum.livepeer.org/c/governance/17)
+-  [Protocol Research B](https://forum.livepeer.org/c/research/15)
 
 # Everything Ops
 ## Livepeer Github Repos
