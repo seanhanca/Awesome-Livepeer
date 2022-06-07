@@ -26,6 +26,11 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 # Context
 
 ## Web3 Basics
+- [ ]  [Top Web3 Architecture Layer Explained](https://itnext.io/top-3-web-3-0-architecture-layers-explained-frontend-backend-and-data-e10200f7fc76)
+- [ ]  [A Developer’s Guide to Web 3 Stack](https://alchemy.com/blog/web3-stack)
+- [ ]  [The Architecture of Web 3 Applications](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
+- [ ]  [Decentralization for Web3 Builders: Principles, Models, How](https://future.com/web3-decentralization-models-framework-principles-how-to/)
+- [ ]  [Web 3 Security: Attack types and Lessons Learned](https://a16z.com/2022/04/23/web3-security-crypto-hack-attack-lessons/)
 
 ## Streaming Basics
 
