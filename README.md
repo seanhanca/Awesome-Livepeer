@@ -109,3 +109,4 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 # Latest Trends
 
 # More Resources
+- [How to buy Livepeer Tokens on Binance](https://www.binance.com/en/how-to-buy/livepeer)
