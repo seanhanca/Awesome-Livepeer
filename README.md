@@ -36,6 +36,13 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 
 -  [Mist Streaming Articles](https://news.mistserver.org/news/65/Fantastic+protocols+and+where+to+stream+them)
 -  [Awesome Video](https://awesome.video/)
+-  [Internet Video Streaming part 1 ](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19)
+-  [Internet Video Streaming part 2](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-2-dbce136b0d7c)
+-  [Internet Video Streaming part 3 ](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-3-45ff4bb3d436)
+-  [Chessboard for Beginners Video-encoding Compression and Resolutions](https://medium.com/@eyevinntechnology/chessboard-for-beginners-video-encoding-compression-and-resolutions-bcefe04fa639)
+-  [Quality of Experience in Streaming](https://medium.com/@eyevinntechnology/quality-of-experience-in-streaming-5c25355a4111)
+-  [Part-1 Back to Basics GOPs  Explained/](https://aws.amazon.com/blogs/media/part-1-back-to-basics-gops-explained/)
+-  [Streamline](https://github.com/streamlinevideo/streamline)
 ## dApps Basics
 
 ## ETH Basics
