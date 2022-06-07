@@ -12,10 +12,12 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
   - [ETH Background](#eth-background)
 
 - [Livepeer Basics](#livepeer-basics)
-  -[White Papers](#white-papers)
-
+  -[White Papers](#white-papers) 
+  
 - [Everything Ops]
-- [Proof of x]
+  -[Livepeer Github Repos](#livepeer-github-repos)
+  -[Livepeer CI/CD Pipelines](#livepeer-cicd)
+  
 - [Latest Trends]
 
 - [More Rerources ...](#resources)
