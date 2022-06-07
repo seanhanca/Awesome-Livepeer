@@ -14,9 +14,9 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 - [Livepeer Basics](#livepeer-basics)
   -[White Papers](#white-papers) 
   
-- [Everything Ops]
-  -[Livepeer Github Repos](#livepeer-github-repos) 
-  -[Livepeer CI/CD Pipelines](#livepeer-cicd) 
+- [Everything Ops] 
+  - [Livepeer Github Repos](#livepeer-github-repos) 
+  - [Livepeer CI/CD Pipelines](#livepeer-cicd) 
   
 - [Latest Trends]
 
