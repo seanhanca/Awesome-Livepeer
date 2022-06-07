@@ -56,6 +56,7 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 - [Awesome Decentralized P2P](https://github.com/decentropy/awesome-decentralized)
 
 # Livepeer Basics
+- [10 min Livepeer Primer](https://livepeer.org/primer)
 - [First Livepeer Stream in Five Minutes](https://livepeer.com/blog/first-livepeer-stream-in-five-minutes)
 - [Livepeer Always-on Transcoding Network](https://livepeer.com/blog/livepeer-always-on-transcoding-network)
 - [Live Peer Network Phases](https://medium.com/livepeer-blog/livepeer-network-phases-b196ab42264b)
