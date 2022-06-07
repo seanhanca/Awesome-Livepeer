@@ -20,7 +20,9 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 - [Everything Ops](#everything-ops)
   - [Livepeer Github Repos](#livepeer-github-repos) 
   - [Livepeer CI/CD Pipelines](#livepeer-cicd) 
-  
+
+- [Tutorials](#tutorials) 
+- [Articles](#articles) 
 - [Latest Trends](#latest-trends) 
 
 - [More Rerources ...](#resources)
@@ -105,7 +107,8 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 - **docs**
     - https://github.com/livepeer/docs
     - User facing docs that can be found at [https://docs.livepeer.org/](https://docs.livepeer.org/)
-
+# Tutorials
+# Articles
 # Latest Trends
 
 # More Resources
