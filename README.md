@@ -46,7 +46,9 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 -  [Part-1 Back to Basics GOPs  Explained/](https://aws.amazon.com/blogs/media/part-1-back-to-basics-gops-explained/)
 -  [Streamline](https://github.com/streamlinevideo/streamline)
 ## dApps Basics
-
+- [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+- [Awesome Blockchain}(https://github.com/openblockchains/awesome-blockchains)
+- [Full Solidity Course Python Edition} (https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 ## ETH Basics
 
 # Livepeer Basics
