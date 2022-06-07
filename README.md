@@ -34,9 +34,10 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 -  [The Architecture of Web 3 Applications](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)
 -  [Decentralization for Web3 Builders: Principles, Models, How](https://future.com/web3-decentralization-models-framework-principles-how-to/)
 -  [Web 3 Security: Attack types and Lessons Learned](https://a16z.com/2022/04/23/web3-security-crypto-hack-attack-lessons/)
+-  [Awesome IPFS](https://github.com/ipfs/awesome-ipfs#readme)
+-  [Awesome Web3](https://github.com/JoinColony/awesome-web3)
 
 ## Streaming Basics
-
 -  [Mist Streaming Articles](https://news.mistserver.org/news/65/Fantastic+protocols+and+where+to+stream+them)
 -  [Awesome Video](https://awesome.video/)
 -  [Internet Video Streaming part 1 ](https://medium.com/@eyevinntechnology/internet-video-streaming-abr-part-1-b10964849e19)
@@ -49,11 +50,10 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 ## dApps Basics
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
 - [Awesome Blockchain](https://github.com/openblockchains/awesome-blockchains)
-- [Full Solidity Course Python Edition] (https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+- [Full Solidity Course Python Edition](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 ## ETH Basics
 - [Awesome ETH](https://github.com/bekatom/awesome-ethereum)
 - [Awesome Decentralized P2P](https://github.com/decentropy/awesome-decentralized)
-- 
 
 # Livepeer Basics
 - [First Livepeer Stream in Five Minutes](https://livepeer.com/blog/first-livepeer-stream-in-five-minutes)
