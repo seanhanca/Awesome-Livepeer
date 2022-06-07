@@ -9,20 +9,27 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
   - [Web3 Basics](#web3-basics)
   - [Streaming Basics](#streaming-basics)
   - [dApps](#dapps)
-  - [ETH Background](#eth-background)
+  - [ETH Basics](#eth-basics)
 
 - [Livepeer Basics](#livepeer-basics)
   -[White Papers](#white-papers) 
   
-- [Everything Ops] 
+- [Everything Ops](#everything-ops)
   - [Livepeer Github Repos](#livepeer-github-repos) 
   - [Livepeer CI/CD Pipelines](#livepeer-cicd) 
   
-- [Latest Trends]
+- [Latest Trends] (#latest-trends) 
 
 - [More Rerources ...](#resources)
 
 
 # Context
 
-## 
+## Web3 Basics
+
+## Streaming Basics
+
+## dApps
+
+## ETH Basics
+
