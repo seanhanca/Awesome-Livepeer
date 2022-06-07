@@ -1,6 +1,6 @@
 
 # Awesome Livepeer
-[![Awesome]
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 Welcome to the central learning resource for everything Livepeer: A curated list of awesome Livepeer resources, libraries, tools and more.
