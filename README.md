@@ -1,5 +1,6 @@
 
 # Awesome Livepeer
+[![Awesome]
 
 
 Welcome to the central learning resource for everything Livepeer: A curated list of awesome Livepeer resources, libraries, tools and more.
@@ -47,9 +48,12 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 -  [Streamline](https://github.com/streamlinevideo/streamline)
 ## dApps Basics
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
-- [Awesome Blockchain}(https://github.com/openblockchains/awesome-blockchains)
-- [Full Solidity Course Python Edition} (https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
+- [Awesome Blockchain](https://github.com/openblockchains/awesome-blockchains)
+- [Full Solidity Course Python Edition] (https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
 ## ETH Basics
+- [Awesome ETH](https://github.com/bekatom/awesome-ethereum)
+- [Awesome Decentralized P2P](https://github.com/decentropy/awesome-decentralized)
+- 
 
 # Livepeer Basics
 - [First Livepeer Stream in Five Minutes](https://livepeer.com/blog/first-livepeer-stream-in-five-minutes)
