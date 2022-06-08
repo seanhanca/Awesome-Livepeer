@@ -38,6 +38,7 @@ Please check the [contribution guidelines](https://github.com/seanhanca/eLivepee
 -  [Web 3 Security: Attack types and Lessons Learned](https://a16z.com/2022/04/23/web3-security-crypto-hack-attack-lessons/)
 -  [Awesome IPFS](https://github.com/ipfs/awesome-ipfs#readme)
 -  [Awesome Web3](https://github.com/JoinColony/awesome-web3)
+-  [Awesome DeWeb](https://github.com/gdamdam/awesome-decentralized-web)
 
 ## Streaming Basics
 -  [Mist Streaming Articles](https://news.mistserver.org/news/65/Fantastic+protocols+and+where+to+stream+them)
